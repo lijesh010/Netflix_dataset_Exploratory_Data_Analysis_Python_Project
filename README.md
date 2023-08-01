@@ -9,7 +9,7 @@ The main goal of this project is to gain insights into the content distribution,
 
 ## Dataset
 https://www.kaggle.com/datasets/shivamb/netflix-shows
-The dataset used in this project is available in the file netflix_dataset.csv. 
+The dataset used in this project is also available in the file netflix_titles.csv. 
 ## The dataset includes the following columns: 
 1. show_id: Unique identifier for each title
 2. type: Type of content (Movie or TV Show)
